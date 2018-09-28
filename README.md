@@ -10,7 +10,7 @@
 
    Create and modify API key at 'User - My API'.
 
-   Market Makers are welcomed, please e-mail to [marketing@bition.pro](marketing@bition.pro).
+   Market Makers are welcomed, please e-mail to [marketing@bition.pro](marketing@bition.pro)
 
 
 
