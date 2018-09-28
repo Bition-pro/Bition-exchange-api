@@ -1,4 +1,4 @@
-#Bition-exchange-api 币选API文档
+## Bition-exchange-api 币选API文档
 
 API key申请和修改，请在“账户 - 我的API”页面进行相关操作。
 
