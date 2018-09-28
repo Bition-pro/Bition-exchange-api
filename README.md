@@ -1,4 +1,4 @@
-## Bition-exchange-api 币选API文档
+## Bition exchange api document 币选API文档
 
 API key申请和修改，请在“账户 - 我的API”页面进行相关操作。
 
@@ -11,4 +11,4 @@ Market Makers are welcomed, please e-mail to [marketing@bition.pro](marketing@bi
 
 [中文API文档](https://github.com/Bition-pro/Bition-exchange-api/wiki/Bition-exchange-api-zh_cn)
 
-[English API Documents](https://github.com/Bition-pro/Bition-exchange-api/wiki/Bition-exchange-api_en)
+[English API Document](https://github.com/Bition-pro/Bition-exchange-api/wiki/Bition-exchange-api_en)
