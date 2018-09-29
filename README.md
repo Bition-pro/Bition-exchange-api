@@ -16,3 +16,6 @@
 
 
 [English API Document](https://github.com/Bition-pro/Bition-exchange-api/wiki/Bition-exchange-api_en)
+
+
+Telegram: https://t.me/bition_ccn
